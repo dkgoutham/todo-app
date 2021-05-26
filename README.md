@@ -1,16 +1,12 @@
-# todo_app
+# ToDo App
 
-A new Flutter application.
+A simple ToDo application with email authentication using Dart/flutter and firebase.
 
-## Getting Started
+## Design!
+<img width="375" alt="Authentication Login" src="https://user-images.githubusercontent.com/75137173/119633614-8b047e80-be2f-11eb-9971-a6c3237b4b7c.png"> <img width="375" alt="ToDo" src="https://user-images.githubusercontent.com/75137173/119633698-a1aad580-be2f-11eb-96db-35f9a67d40b9.png">
+<img width="375" alt="New task" src="https://user-images.githubusercontent.com/75137173/119633704-a3749900-be2f-11eb-9a0d-5b2965831d4e.png">
+<img width="375" alt="ToDo2" src="https://user-images.githubusercontent.com/75137173/119633806-ba1af000-be2f-11eb-89a9-68be7d18361a.png">
+[Uploading Authentication.png…]()
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
